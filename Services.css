@@ -1,0 +1,219 @@
+body{
+    background: url('images/backend(1).jpg') no-repeat;
+}
+.head{
+    font-size: 120px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+.routinelogo{
+    text-align: right;
+    font-size: 50px;
+    /* padding-left:17%; */
+    margin-right: 17%;
+    margin-top: 0%;
+    color: goldenrod;
+}
+.head1{
+    font-family: fantasy;
+    text-align: right;
+    font-size: 40px;
+    margin-right: 7%;
+    margin-top: 0%;
+    margin-top: 0%;
+    color: blue;
+    /* position: fixed; */
+}
+/* .in{
+    font-family: Algerian;
+    padding-top: 2%;
+    text-align: right;
+    font-size: 20px;
+    padding-right: 2%;
+    color: red;
+} */
+.diet{
+    float: left;
+    margin-left: 17%;
+    color: goldenrod;
+}
+/* .in2{
+    float: left;
+} */
+.right{
+    margin-left: 60%; 
+    top: 56%;
+    display: inline-block;
+    position: absolute;
+    font-family: Algerian;
+    /* padding-right: %; */
+    font-size: 20px;
+    color: red;
+}
+.left{
+    margin-left: 2%;
+    position: absolute;
+    display: inline-block;
+    margin-top: 0%;
+    top: 0%;
+    margin-top: 29%;
+    font-family: Algerian;
+    /* padding-top: 2%; */
+    /* text-align: right; */
+    font-size: 20px;
+    /* padding-right: 2%; */
+    color: red;
+}
+.line{
+    margin-top: 17%;
+    position: sticky;
+    color: chartreuse;
+}
+.dlogo{
+    margin-left: 62%;
+    margin-top: 2%;
+    font-size: 50px;
+    position:static;
+    display: inline-block;
+    color: goldenrod;
+}
+.run{
+    color: goldenrod;
+    font-size: 50px;
+    display: inline;
+    /* padding-left: 50%; */
+    /* position: fixed; */
+    /* padding-right: 30%; */
+    margin-top: 50%;
+    /* padding-right: 17%; */
+    margin-left: 13%;
+    }
+    .left2{
+        margin-left: 2%;
+
+        display: inline-block;
+
+    }
+    #build{
+        font-size: 40px;
+        font-family: fantasy;
+        color: blue;
+        position: static;
+    }
+    .right2{
+      display: inline-block;
+      margin-left: 50.65%;
+      margin-top: 2%;
+      position: static;
+    }
+     #gym{
+        font-size: 40px;
+        font-family: fantasy;
+        color: blue;
+        position: static;
+        /* position: fixed; */
+        /* padding-right: 1111%; */
+        /* position: relative; */
+    }
+    .dline{
+         color: chartreuse;
+    }
+    .gline{
+        color: chartreuse;
+    }
+    .runin{
+        color: red;
+        font-size: 20px;
+        font-family: Algerian;
+        margin-left: 2%;
+    }
+    .left3{
+        margin-left: 2%;
+    position: absolute;
+    margin-top: 0%;
+    top: 0%;
+    margin-top: 62%;
+    font-family: Algerian;
+    /* padding-top: 2%; */
+    /* text-align: right; */
+    font-size: 20px;
+    /* padding-right: 2%; */
+    color: red;
+    }
+    .right3{
+        margin-left: 65%; 
+    top: 121%;
+    display: inline-block;
+    position: absolute;
+    font-family: Algerian;
+    /* padding-right: %; */
+    font-size: 20px;
+    color: red;
+    }
+    .sline{
+        color: chartreuse;
+        margin-top: 22%;
+    }
+    .bathlogo{
+        color: #daa520;
+        margin-top: 2%;
+        font-size: 50px;
+        margin-left: 10%;
+        position: static;
+        display: inline;
+    }
+     .clocklogo{
+        color: #daa520;
+        font-size: 50px;
+        margin-left: 65%; 
+         text-align: right; 
+         position: static;
+         display: inline-block;
+         margin-top: 2%;
+    }
+    .bath{
+        color: blue;
+        font-family: fantasy;
+        font-size: 40px;
+        margin-top: 2%;
+        margin-left: 3%;
+        position: static;
+        display: inline-block;
+    } 
+    .clock{
+        color: blue;
+        font-family: fantasy;
+        font-size: 40px;
+        margin-left: 47%;
+        position: static;
+        display: inline-block;
+    }
+    .bathin{
+        color: red;
+        margin-top: 1%;
+        font-family: algerian;
+        font-size: 20px;
+        margin-left: 1%;
+        position: static;
+        display: inline-block;
+    }
+    .clockin{
+        color: red;
+        margin-top: 1%;
+        font-family: algerian;
+        font-size: 20px;
+        margin-left: 30%;
+        position: static;
+        display: inline-block;
+    }
+    .pline{
+        color: chartreuse;
+    }
+    /* #loader{
+        background: black url('images/preloader.gif') no-repeat center center;
+        height: 100vh;
+        width: 100%;
+        z-index: 100;
+        position: fixed;
+    } */

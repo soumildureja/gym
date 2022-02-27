@@ -1,0 +1,51 @@
+body{
+    background: url('images/backend(1).jpg');
+}
+.head{
+    color: gold;
+    text-align: center;
+    font-size: 65px;
+}
+.gym{
+    padding-top: 5%;
+    padding-left: 6%;
+    /* width: 26%; */
+}
+.gym1{
+    width: 26%;
+    padding-left: 2%;
+}
+.gym2{
+    width: 14%;
+    padding-left: 2%;
+}
+.gym3{
+    padding-left: 2%;
+}
+.gym4{
+    width: 22%;
+    padding-left: 6%;
+    padding-top: 2%;
+}
+.gym5{
+    padding-left: 6%;
+    width: 19%;
+}
+.gym6{
+    width: 17%;
+    padding-left: 3%;
+}
+.gym7{
+    width: 19%;
+    padding-left: 2%;
+}
+.object{
+    max-width: 12%;
+}
+/* .loader{
+    background: black url('images/preloader.gif') no-repeat center center;
+    height: 100vh;
+    width: 100%;
+    z-index: 100;
+    position: fixed;
+} */
