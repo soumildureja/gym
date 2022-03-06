@@ -1,0 +1,9 @@
+body{
+    background: url('images/backend\(1\).jpg');
+}
+.thanks{
+    font-size: 70px;
+    text-align: center;
+    margin-top: 20%;
+    color: goldenrod;
+}

@@ -1,0 +1,269 @@
+body{
+    color: white;
+    margin:0;
+    padding: 0%;
+    background: url('images/ok.jpg') no-repeat;
+    background-size: 100%;
+    @media mobile {
+        width: 100%;
+        height: inherit;
+    }
+}
+ .left{
+     position: relative;
+     display: inline-block;
+     top: 10px;
+ }
+.mid{
+    position: absolute;
+    left: 35%;
+     display: inline;
+
+}
+.right{
+    position: absolute;
+    display: inline-block;
+    left: 90%;  
+    top: 2%;
+    padding: 3px 19px;
+    
+
+}
+.right a{
+    color: white;
+    font-size: 14.5px;
+    font-family: Algerian;
+}
+.right a:hover{
+    color: gray;
+}
+.navbar li{
+    display: inline;
+}
+.navbar li a{
+    display: inline;
+    padding: 5px;
+    color: white;
+    font-size: 15x;
+    font-family: Algerian;
+}
+.navbar li a:hover,.navbar li a.active{
+    text-decoration: underline;
+    color: grey;
+}
+.left img{
+    width: 100%;
+
+}
+.logo{
+    max-width: 90%;
+}
+.chem{
+    padding-left: 16%;
+}
+#loader{
+    background: black url('images/preloader.gif') no-repeat center center;
+    height: 100vh;
+    width: 100%;
+    z-index: 100;
+    position: fixed;
+}
+.title{
+    margin-top: 2%;
+    font-size: 110px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+    .join{
+        color: white;
+        background-color: black;
+        /* padding-top: 5%; */
+        border-radius: 10px;
+        font-size: 35px;
+        font-family: flix;
+        cursor: pointer;
+        margin-left: 1%;
+    }
+    .join:hover{
+        background-color: gray;
+    }
+    .con{
+        margin-top: 18%;
+        font-size: 40px;
+        color: black;
+        text-decoration: underline;
+        font-family: Teko;
+        margin-left: 1%;
+    }
+    .tent{
+        color: black;
+        font-family: Source Sans Pro;
+    margin-top: 2%;
+    margin-left: 1%;
+    position: static;
+    display: inline-block;
+    }
+    .img{
+        position: absolute  ;
+        color: black;
+         display: inline-block; 
+        text-align: right; 
+        margin-left: 37%;
+        width: auto ;
+        
+    }
+    .line1{
+        color: black;
+        /* text-decoration:s; */
+        margin-top: 4%;
+    }
+
+.know{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    font-size: 25px;
+    margin-top: 1%;
+    margin-left: 1%;
+    cursor: pointer;
+    font-family: source sans pro;
+}
+.know:hover{
+    background-color: gray;
+    cursor: pointer;
+}
+.line2{
+    color: black;
+}
+.s{
+    color: #000;
+    margin-top: 2%;
+    margin-left: 1%;
+    font-size: 40px;
+    text-decoration: underline;
+    font-family: teko;
+}
+.services{
+    color: white;
+    margin-top: 2%;
+    font-size: 18px;
+    font-family: Source Sans Pro;
+    position: absolute;
+    display: inline-block;
+    background: url('images/R.jfif') no-repeat;
+}
+.WORKOUT{
+  position: absolute;
+  display: inline-block;
+  margin-left: 20%;
+}
+.gym{
+    position: absolute;
+  display: inline-block;
+  margin-left: 26%;
+}
+.bath{
+    position: absolute;
+    display: inline-block;
+}
+.personal{
+    color: #fff;
+    font-family: source Sans pro;
+    margin-left: 47%;
+}
+.more{
+    color: #fff;
+    border-radius: 11px;
+    background-color: #000;
+    font-size: 25px;
+    margin-left: 20%;
+}
+.more:hover{
+    background-color: gray;
+    cursor: pointer;
+}
+.our{
+    color: white;
+    margin-top: 21%;
+    text-align: center;
+    font-family: teko;
+    text-decoration: underline;
+    font-size: 40px;
+    background-color: black;
+}
+.img1{
+    text-align: left;
+    display: inline;
+    margin-right: 15%;
+}
+.img2{
+    width: 2%;
+        display: inline;
+         text-align: right;
+    }
+    .pic{
+        background-color: black;
+        color: white;
+        border-radius: 11px;
+        font-size: 25px;
+    }
+    .pic:hover{
+        background-color: gray;
+        cursor: pointer;
+    }
+    .change{
+        color: #000;
+        margin-top: 2%;
+        font-family: teko;
+        text-decoration: underline;
+        margin-left: 1%;
+        font-size: 40px;
+    }
+    .changein{
+        color: #000;
+        font-family: source sans pro;
+        font-size: 21px;
+        display: inline-block;
+        
+    }
+    .changeimg{
+        width: 25%;
+        display: inline;
+       text-align: right;
+       margin-left: 25%;
+        }
+        .thought{
+            margin-top: 2%;
+            background: black;
+            color: #fff;
+            font-size: 35px;
+            font-family: Regular 400 italic;
+            font-family: PT sans;
+        }
+        .pay{
+            color: #000;
+            margin-top: 3%;
+            font-family: teko;
+            text-decoration: underline;
+            font-size: 40px;
+            margin-left: 2%;
+        }
+        .payg{
+            color: #000;
+            font-size: 20px;
+            font-family: souce Sans pro;
+            color: rgb(146, 65, 65);
+        }
+        .join2{
+            color: white;
+            background-color: black;
+            /* padding-top: 5%; */
+            border-radius: 10px;
+            font-size: 25px;
+            font-family: flix;
+            cursor: pointer;
+            margin-left: 45%;
+        
+        }
+        .join2:hover{
+            background-color: gray;
+        }
